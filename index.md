@@ -4,7 +4,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Examining the effect of environmental factors and weather on Bike rentals](https://github.com/emani27/Emani_DataScience/blob/master/Linear_Regression%20Project.ipynb)
+[Examining the effect of environmental factors and weather on Bike rentals](https://github.com/iammtaran21/DS_Projects/tree/main/Linear_Reg)
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
@@ -15,7 +15,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Diagnosis of breast cancer using a logistic classifier](https://github.com/emani27/Emani_DataScience/blob/master/Logistic%20Regression%20Project.ipynb)
+[Diagnosis of breast cancer using a logistic classifier](https://github.com/iammtaran21/DS_Projects/tree/main/Logistic_PROJECT)
 
 <img src="images/breast-cancer.jpeg?raw=true"/>
 
@@ -26,7 +26,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Identifying symptoms of orthopedic patients as normal or abnormal](/sample_page)
+[Identifying symptoms of orthopedic patients as normal or abnormal](/"https://github.com/iammtaran21/DS_Projects/tree/main/Knn_NB")
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
 
