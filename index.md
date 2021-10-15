@@ -38,7 +38,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Amazon Fine Food Analysis using NLP](https://github.com/iammtaran21/DS_Projects/tree/main/NLP)
 
-<img src="images/download.jpeg?raw=true"/>
+<img src="images/amazon.jpeg?raw=true"/>
 
 - Given a review, it is determined whether the review is positive or negative.
 - Used NLP for this approach.
