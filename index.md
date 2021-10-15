@@ -33,3 +33,13 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
+
+***
+
+[Amazon Fine Food Analysis using NLP](https://github.com/iammtaran21/DS_Projects/tree/main/NLP)
+
+<img src="images/download.jpeg?raw=true"/>
+
+- Given a review, it is determined whether the review is positive or negative.
+- Used NLP for this approach.
+- A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored.
