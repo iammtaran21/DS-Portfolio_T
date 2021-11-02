@@ -29,7 +29,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** Classifying Biomechanical Features of Orthopedic Patients based on provided Features to decrease the time required for finding a diagonasis.
 
-**Quantifiable result:** We could Classify the type of tumor resulting in [**95%** accuracy using K-means algorithm](https://github.com/iammtaran21/DS_Projects/blob/main/Logistic_PROJECT/Logistic_Project_T%20(2).ipynb) .
+**Quantifiable result:** We could Classify the type of tumor resulting in [**95%** accuracy using Logistic Regression and SMOTE](https://github.com/iammtaran21/DS_Projects/blob/main/Logistic_PROJECT/Logistic_Project_T%20(2).ipynb) .
 
 - Used logistic regression to identify a tumour as malignant or benign based on various attributes
 - Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
