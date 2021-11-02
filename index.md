@@ -24,6 +24,12 @@ Here are some of my best Data Science Projects. I have explored various machine-
 [Diagnosis of breast cancer using a logistic classifier](https://github.com/iammtaran21/DS_Projects/tree/main/Logistic_PROJECT)
 
 <img src="images/breast-cancer.jpeg?raw=true"/>
+**Skills used:** Python, Pandas, SKlearn, Matplotlib
+
+**Project Objective:** Classifying Biomechanical Features of Orthopedic Patients based on provided Features to decrease the time required for finding a diagonasis
+
+**Quantifiable result:** We could Classify the type of tumor resulting in [**95%** accuracy using K-means algorithm](https://github.com/suvo-gh/Orthopedic-Patients-Classification).
+
 
 - Used logistic regression to identify a tumour as malignant or benign based on various attributes
 - Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
