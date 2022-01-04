@@ -44,11 +44,11 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib,KNN,NB
 
-**Project Objective:** In this project we are provided with multiple instances of orthopedic parameters and we are also provided with their classification as Normal or Abnormal. We have to implement K Nearest Neighbour, the algorithm is used to classify points according to class of their K nearest neighbour points . 
+**Project Objective:** In this project we are provided with multiple instances of orthopedic parameters and we are also provided with their classification as Normal or Abnormal. We have to implement K Nearest Neighbor, the algorithm is used to classify points according to class of their K nearest neighbour points . 
 
 **Quantifiable result:** We could Classify the orthopedic parameters as Normal or Abnormal with an [**accuracy** of 80%](https://github.com/iammtaran21/DS_Projects/blob/main/Knn_NB/KNN_NB_Project_T.ipynb) .
 
-- Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
+- Used the K Nearest Neighbors algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
 
@@ -62,7 +62,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** Given a review, determine whether the review is positive or negative based on Amazon foods . 
 
-**Quantifiable result:** We could We could use the Score/Rating. A rating of 4 or 5 could be cosnidered a positive review. A review of 1 or 2 could be considered negative. A review of 3 is nuetral and ignored. This is an approximate and proxy way of determining the polarity (positivity/negativity) [**AUC** Score of 88%](https://github.com/iammtaran21/DS_Projects/blob/main/NLP/NLP_Project.ipynb) .
+**Quantifiable result:** We could We could use the Score/Rating. A rating of 4 or 5 could be cosnidered a positive review. A review of 1 or 2 could be considered negative. A review of 3 is neutral and ignored. This is an approximate and proxy way of determining the polarity (positivity/negativity) [**AUC** Score of 88%](https://github.com/iammtaran21/DS_Projects/blob/main/NLP/NLP_Project.ipynb) .
 
 - Given a review, it is determined whether the review is positive or negative.
 - Used NLP for this approach.
