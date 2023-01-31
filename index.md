@@ -6,7 +6,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Sarcasm Detection of tweets using Transformers Deep learning model ](https://github.com/iammtaran21/TF/blob/main/I_Sarcasm_Transformers_TF.ipynb)
 
-<img src="images/tweets.png?raw=true"/>
+<img src="images/tweets.jpeg?raw=true"/>
 
 **Skills used:** Python, Pandas, Tensorflow, NLP
 
