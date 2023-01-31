@@ -4,6 +4,23 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
+[Sarcasm Detection of tweets using Transformers Deep learning model ](https://github.com/iammtaran21/TF/blob/main/I_Sarcasm_Transformers_TF.ipynb)
+
+<img src="images/tweets.png?raw=true"/>
+
+**Skills used:** Python, Pandas, Tensorflow, NLP
+
+**Project Objective:** Detecting Sarcasm in tweets using NLP and Deep learning.
+
+**Quantifiable result:** We could detect Sarcasm on test tweets resulting in [**70.64%** accuracy](https://github.com/iammtaran21/TF/blob/main/I_Sarcasm_Transformers_TF.ipynb) .
+
+- Used BERT to detect sarcasm in tweets
+- The I- Sarcasm dataset was used.
+- Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
+- Fit a multiple linear regression model with high prediction accuracy through iteration
+
+***
+
 [Examining the effectsssss of environmental factors and weather on Bike rentals](https://github.com/iammtaran21/DS_Projects/tree/main/Linear_Reg)
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
