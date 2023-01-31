@@ -16,8 +16,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 - Used BERT to detect sarcasm in tweets
 - The I- Sarcasm dataset was used.
-- Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
-- Fit a multiple linear regression model with high prediction accuracy through iteration
+- Fit a BERT based Transformers model with good accuracy through 4 epochs.
 
 ***
 
