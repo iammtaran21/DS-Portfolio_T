@@ -1,0 +1,19 @@
+/* dark-mode.css */
+
+/* Body styles */
+body.dark-mode {
+  background-color: #1f1f1f;
+  color: #fff;
+}
+
+/* Header styles */
+header.dark-mode {
+  background-color: #333;
+}
+
+/* Footer styles */
+footer.dark-mode {
+  background-color: #333;
+}
+
+/* Other styles specific to dark mode */
