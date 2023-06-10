@@ -9,7 +9,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/tweets.jpeg?raw=true"/>
 
-**Skills used:** Python, Pandas, Tensorflow, NLP
+Skills used: Python, Pandas, Tensorflow, NLP
 
 **Project Objective:** Detecting Sarcasm in tweets using NLP and Deep learning.
 
