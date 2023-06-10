@@ -1,4 +1,5 @@
-# Data Science Portfolio
+<h1 class="portfolio-heading">Data Science Portfolio</h1>
+
 
 Here are some of my best Data Science Projects. I have explored various machine-learning algorithms for different datasets. Feel free to contact me to learn more about my experience working with these projects.
 
