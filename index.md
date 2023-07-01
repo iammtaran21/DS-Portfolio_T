@@ -10,6 +10,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 <img src="images/90549chatbot-4071274_1920.jpg?raw=true"/>
 
 Skills used: Python,ntlk 
+
 Project Objective: A bot that can answer questions based on its learning of Wikipedia
 
 
