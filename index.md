@@ -5,6 +5,18 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
+[Wikipedia Chatbot ]([https://github.com/iammtaran21/tf1/blob/main/I_Sarcasm_detect_Transformers_Final.ipynb](https://github.com/iammtaran21/Gen_AI/blob/main/Wikipedia_ChatBot.ipynb))
+
+<img src="images/90549chatbot-4071274_1920.jpeg?raw=true"/>
+
+Skills used: Python,ntlk 
+Project Objective: A bot that can answer questions based on its learning of Wikipedia
+
+
+***
+
+***
+
 [Sarcasm Detection of tweets using Transformers Deep learning model ](https://github.com/iammtaran21/tf1/blob/main/I_Sarcasm_detect_Transformers_Final.ipynb)
 
 <img src="images/tweets.jpeg?raw=true"/>
