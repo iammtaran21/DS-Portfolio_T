@@ -9,7 +9,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/uber.jpeg?raw=true"/>
 
-Skills used: Python,seaborn,Datetime, Pandas ,Numpy
+Skills used: Python, Seaborn, Datetime, Pandas , Numpy
 
 Project Objective: The aim of the analysis is to identify the root cause of the problem (i.e., cancellation and non-availability of cars). This translates to finding the peak time periods when these problems are happening
 
@@ -41,7 +41,7 @@ Project Objective: A bot that can answer questions based on its learning of Wiki
 
 [Sarcasm Detection of tweets using Transformers Deep learning model ](https://github.com/iammtaran21/tf1/blob/main/I_Sarcasm_detect_Transformers_Final.ipynb)
 
-<img src="images/tweets.jpeg?raw=true"/>
+<img src="images/twitter.jpeg?raw=true"/>
 
 Skills used: Python, Pandas, Tensorflow, NLP
 
