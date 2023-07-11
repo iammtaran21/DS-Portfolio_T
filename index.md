@@ -28,7 +28,7 @@ Project Objective: We work for a travel agency and need to know the ins and outs
 
 [Wikipedia Chatbot](https://github.com/iammtaran21/Gen_AI/blob/main/Wikipedia_ChatBot.ipynb)
 
-<img src="images/twitter.jpeg?raw=true"/>
+<img src="images/90549chatbot-4071274_1920.jpg?raw=true"/>
 
 Skills used: Python,ntlk 
 
