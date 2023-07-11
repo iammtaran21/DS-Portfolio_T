@@ -5,6 +5,17 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
+[Airlines EDA](https://github.com/iammtaran21/Airline_EDA/blob/main/Airline%20Analysis.ipynb)
+
+<img src="images/airline.jpeg?raw=true"/>
+
+Skills used: Python, Matplotlib, Seaborn, Pandas ,Numpy
+
+Project Objective: We work for a travel agency and need to know the ins and outs of airline prices for our clients. We will make sure that we can find the best deal for our clients and help them understand how airline prices change based on different factors.
+
+
+***
+
 [Wikipedia Chatbot](https://github.com/iammtaran21/Gen_AI/blob/main/Wikipedia_ChatBot.ipynb)
 
 <img src="images/90549chatbot-4071274_1920.jpg?raw=true"/>
