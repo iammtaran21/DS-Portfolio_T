@@ -5,6 +5,16 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
+[Uber Supply Demand Gap](https://github.com/iammtaran21/Uber_CaseStudy/blob/main/Uber_demandSupply.ipynb)
+
+<img src="images/uber.jpeg?raw=true"/>
+
+Skills used: Python,seaborn,Datetime, Pandas ,Numpy
+
+Project Objective: The aim of the analysis is to identify the root cause of the problem (i.e., cancellation and non-availability of cars). This translates to finding the peak time periods when these problems are happening
+
+***
+
 [Airlines EDA](https://github.com/iammtaran21/Airline_EDA/blob/main/Airline%20Analysis.ipynb)
 
 <img src="images/airline.jpeg?raw=true"/>
