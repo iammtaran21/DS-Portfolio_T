@@ -1,19 +1,20 @@
-/* dark-mode.css */
+
+/* light-mode.css */
 
 /* Body styles */
-body.dark-mode {
-  background-color: #1f1f1f;
-  color: #fff;
+body {
+  background-color: #fff;
+  color: #000; /* Change text color to black or a color that suits your design */
 }
 
 /* Header styles */
-header.dark-mode {
-  background-color: #333;
+header {
+  background-color: #eee; /* Change header background color */
 }
 
 /* Footer styles */
-footer.dark-mode {
-  background-color: #333;
+footer {
+  background-color: #eee; /* Change footer background color */
 }
 
 /* Other styles specific to dark mode */
