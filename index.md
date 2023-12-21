@@ -1,8 +1,16 @@
 <h1 class="portfolio-heading">Data Science Portfolio</h1>
 
 
-Here are some of my best Data Science Projects. I have explored various machine-learning algorithms for different datasets. Feel free to contact me to learn more about my experience working with these projects.
+Here are some of my best Machine Learning Projects. I have explored various machine-learning algorithms for different datasets. Feel free to contact me to learn more about my experience working with these projects.
 
+***
+[Semantic Search AI](https://github.com/iammtaran21/Generative_AI/tree/main/Mr_Helpmate_AI_Taran)
+
+<img src="images/search_engine.png?raw=true"/>
+
+Skills used: Python, OpenAI, ChromaDB
+
+Project Objective: A RAG (Retrieval-augmented generation) system created using OpenAI API and also makes use of Vector Database- ChromaDB.
 ***
 
 [Uber Supply Demand Gap](https://github.com/iammtaran21/Uber_CaseStudy/blob/main/Uber_demandSupply.ipynb)
